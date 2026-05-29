@@ -31,17 +31,25 @@ Para manter o repositório organizado e facilitar as buscas no futuro, todos os 
 
 Abaixo está a listagem dos trabalhos atualmente catalogados no repositório, separados por ano de defesa:
 ### 📅 2025
-* **DSC** - Francisco Strunck (📄 Documento | 📊 Apresentação)
+* **DSC** - Francisco Strunck (📄 Documento)
+* **DSC** - João Gonçalves Neto (📄 Documento)
 
 ### 📅 2024
-*
+* **MSC** - Diogo Faria (📄 Documento)
+* **MSC** - Henrique Abreu (📄 Documento)
+
 
 ### 📅 2023
 * **TCC** - Gabriela & Mariana (📄 Documento | 📊 Apresentação)
+* **MSC** - Daniel Humberto (📄 Documento)
+* **MSC** - Francisco Lopes (📄 Documento)
+
 
 ### 📅 2022
 * **MSC** - Francisco Renan (📄 Documento | 📊 Apresentação)
 * **TCC** - Isabela Bittencourt (📄 Documento | 📊 Apresentação)
+* **TCC** - Rogerio Saldanha (📄 Documento)
+
 
 ### 📅 2021
 * **MSC** - Nicole Risso (📄 Documento | 📊 Apresentação)
@@ -61,6 +69,7 @@ Abaixo está a listagem dos trabalhos atualmente catalogados no repositório, se
 * **TCC** - Carlos Castanho (📄 Documento)
 * **TCC** - Cesar & Barbara (📄 Documento)
 * **TCC** - Marcello & Mariana (📄 Documento)
+* **MSC** - Renato Nofal (📄 Documento)
 
 ### 📅 2018
 * **MSC** - Renata Nofal (📄 Documento)
