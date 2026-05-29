@@ -30,6 +30,11 @@ Para manter o repositório organizado e facilitar as buscas no futuro, todos os 
 ## 🗂️ Acervo Disponível
 
 Abaixo está a listagem dos trabalhos atualmente catalogados no repositório, separados por ano de defesa:
+### 📅 2025
+* **DSC** - Francisco Strunck (📄 Documento | 📊 Apresentação)
+
+### 📅 2024
+*
 
 ### 📅 2023
 * **TCC** - Gabriela & Mariana (📄 Documento | 📊 Apresentação)
