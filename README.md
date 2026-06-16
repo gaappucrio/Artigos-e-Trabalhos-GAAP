@@ -30,62 +30,60 @@ Para manter o repositório organizado e facilitar as buscas no futuro, todos os 
 ## 🗂️ Acervo Disponível
 
 Abaixo está a listagem dos trabalhos atualmente catalogados no repositório, separados por ano de defesa:
+
 ### 📅 2026
-* **MSC** - Isabela Chiara (📄 Documento | 📊 Apresentação)
-* **TCC** - Luisa & Dani (📊 Apresentação)
+* **MSC** - Isabela Chiara ([📄 Documento](./2026_MSC_IsabelaChiara.pdf) | [📊 Apresentação](./2026_PPT_MSC_IsabelaChiara.pdf))
+* **TCC** - Luisa & Dani ([📊 Apresentação](./2026_PPT_TCC_Luisa_Dani.pdf))
 
 ### 📅 2025
-* **DSC** - Francisco Strunck (📄 Documento)
-* **DSC** - Freddy Rojas (📄 Documento | 📊 Apresentação)
-* **DSC** - João Gonçalves Neto (📄 Documento)
-* **MSC** - Guilherme Espinosa (📄 Documento | 📊 Apresentação)
-* **MSC** - Lorena Satler (📄 Documento | 📊 Apresentação)
+* **DSC** - Francisco Strunck ([📄 Documento](./2025_DSC_FranciscoStrunck.pdf))
+* **DSC** - Freddy Rojas ([📄 Documento](./2025_DSC_FreddyRojas.pdf) | [📊 Apresentação](./2025_PPT_DSC_FreddyRojas.pdf))
+* **DSC** - João Gonçalves Neto ([📄 Documento](./2025_DSC_JoaoNeto.pdf))
+* **MSC** - Guilherme Espinosa ([📄 Documento](./2025_MSC_GuilhermeEspinosa.pdf) | [📊 Apresentação](./2025_PPT_MSC_Guilherme.pdf))
+* **MSC** - Lorena Satler ([📄 Documento](./2025_MSC_LorenaSatler.pdf) | [📊 Apresentação](./2025_PPT_MSC_LorenaSatler.pdf))
 
 ### 📅 2024
-* **MSC** - Diogo Faria (📄 Documento)
-* **MSC** - Henrique Abreu (📄 Documento)
-* **MSC** - Juan Oliveira (📄 Documento | 📊 Apresentação)
-
+* **MSC** - Diogo Faria ([📄 Documento](./2024_MSC_DiogoFaria.pdf))
+* **MSC** - Henrique Abreu ([📄 Documento](./2024_MSC_HenriqueAbreu.pdf))
+* **MSC** - Juan Oliveira ([📄 Documento](./2024_MSC_JuanOliveira.pdf) | [📊 Apresentação](./2024_PPT_MSC_JuanOliveira.pdf))
 
 ### 📅 2023
-* **TCC** - Gabriela & Mariana (📄 Documento | 📊 Apresentação)
-* **MSC** - Daniel Humberto (📄 Documento)
-* **MSC** - Francisco Lopes (📄 Documento)
-
+* **MSC** - Daniel Humberto ([📄 Documento](./2023_MSC_DanielHumberto.pdf))
+* **MSC** - Francisco Lopes ([📄 Documento](./2023_MSC_FranciscoLopes.pdf))
+* **TCC** - Gabriela & Mariana ([📄 Documento](./2023_TCC_Gabriela_Mariana.pdf) | [📊 Apresentação](./2023_PPT_TCC_Gabriela_Mariana.pdf))
 
 ### 📅 2022
-* **MSC** - Francisco Renan (📄 Documento | 📊 Apresentação)
-* **TCC** - Isabela Bittencourt (📄 Documento | 📊 Apresentação)
-* **TCC** - Rogerio Saldanha (📄 Documento)
-
+* **MSC** - Francisco Renan ([📄 Documento](./2022_MSC_FranciscoRenan.pdf) | [📊 Apresentação](./2022_PPT_MSC_FranciscoRenan.pdf))
+* **TCC** - Isabela Bittencourt ([📄 Documento](./2022_TCC_IsabelaBittencourt.pdf) | [📊 Apresentação](./2022_PPT_TCC_IsabelaBittencourt.pdf))
+* **TCC** - Rogerio Saldanha ([📄 Documento](./2022_TCC_RogerioSaldanha.pdf))
 
 ### 📅 2021
-* **MSC** - Nicole Risso (📄 Documento | 📊 Apresentação)
-* **TCC** - Amanda Amaral (📄 Documento | 📊 Apresentação)
-* **TCC** - Francisco Strunck (📄 Documento | 📊 Apresentação)
+* **MSC** - Nicole Risso ([📄 Documento](./2021_MSC_NicoleRisso.pdf) | [📊 Apresentação](./2021_PPT_MSC_NicoleRisso.pdf))
+* **TCC** - Amanda Amaral ([📄 Documento](./2021_TCC_AmandaAmaral.pdf) | [📊 Apresentação](./2021_PPT_TCC_AmandaAmaral.pdf))
+* **TCC** - Francisco Strunck ([📄 Documento](./2021_TCC_FranciscoStrunck.pdf) | [📊 Apresentação](./2021_PPT_TCC_FranciscoStrunck.pdf))
 
 ### 📅 2020
-* **MSC** - João Gonçalves Neto (📄 Documento | 📊 Apresentação)
-* **TCC** - André Pessanha (📄 Documento | 📊 Apresentação)
-* **TCC** - Guilherme Espinosa (📄 Documento | 📊 Apresentação)
-* **TCC** - Henrique Botelho (📄 Documento | 📊 Apresentação)
-* **TCC** - Pedro Henrique Gomes Ferreira (📄 Documento | 📊 Apresentação)
-* **TCC** - Stephanie & Yanne (📄 Documento | 📊 Apresentação)
+* **MSC** - João Gonçalves Neto ([📄 Documento](./2020_MSC_JoaoGoncalvesNeto.pdf) | [📊 Apresentação](./2020_PPT_MSC_JoaoGoncalvesNeto.pdf))
+* **TCC** - André Pessanha ([📄 Documento](./2020_TCC_AndrePessanha.pdf) | [📊 Apresentação](./2020_PPT_TCC_AndrePessanha.pdf))
+* **TCC** - Guilherme Espinosa ([📄 Documento](./2020_TCC_GuilhermeEspinosa.pdf) | [📊 Apresentação](./2020_PPT_TCC_GuilhermeEspinosa.pdf))
+* **TCC** - Henrique Botelho ([📄 Documento](./2020_TCC_HenriqueBotelho.pdf) | [📊 Apresentação](./2020_PPT_TCC_HenriqueBotelho.pdf))
+* **TCC** - Pedro Henrique Gomes Ferreira ([📄 Documento](./2020_TCC_PedroHenriqueGomesFerreira.pdf) | [📊 Apresentação](./2020_PPT_TCC_PedroHenriqueFerreira.pdf))
+* **TCC** - Stephanie & Yanne ([📄 Documento](./2020_TCC_Stephanie_Yanne.pdf) | [📊 Apresentação](./2020_PPT_TCC_Stephanie_Yanne.pdf))
 
 ### 📅 2019
-* **MSC** - Ayrton Pereira (📄 Documento | 📊 Apresentação)
-* **TCC** - Carlos Castanho (📄 Documento)
-* **TCC** - Cesar & Barbara (📄 Documento)
-* **TCC** - Marcello & Mariana (📄 Documento)
-* **MSC** - Renata Nofal (📄 Documento)
+* **MSC** - Ayrton Pereira ([📄 Documento](./2019_MSC_AyrtonPereira.pdf) | [📊 Apresentação](./2019_PPT_MSC_AyrtonPereira.pdf))
+* **MSC** - Renata Nofal ([📄 Documento](./2019_MSC_RenataNofal.pdf))
+* **TCC** - Carlos Castanho ([📄 Documento](./2019_TCC_CarlosCastanho.pdf))
+* **TCC** - Cesar & Barbara ([📄 Documento](./2019_TCC_Cesar_Barbara.pdf))
+* **TCC** - Marcello & Mariana ([📄 Documento](./2019_TCC_Marcello_Mariana.pdf))
 
 ### 📅 2018
-* **MSC** - Renata Nofal (📄 Documento)
-* **TCC** - Ana Luiza (📄 Documento)
-* **TCC** - André & Matheus (📄 Documento | 📊 Apresentação)
-* **TCC** - Gabriela Aversa & Bernardo Barbosa (📄 Documento | 📊 Apresentação)
-* **TCC** - Lorena & Renan (📄 Documento)
-* **TCC** - Rodrigo & Ana (📄 Documento | 📊 Apresentação)
+* **MSC** - Renata Nofal ([📄 Documento](./2018_MSC_RenataNofal.pdf))
+* **TCC** - Ana Luiza ([📄 Documento](./2018_TCC_Ana_Luiza.pdf))
+* **TCC** - André & Matheus ([📄 Documento](./2018_TCC_Andre_Matheus.pdf) | [📊 Apresentação](./2018_PPT_TCC_Andre_Matheus.pdf))
+* **TCC** - Gabriela Aversa & Bernardo Barbosa ([📄 Documento](./2018_TCC_GabrielaAversa_BernardoBarbosa.pdf) | [📊 Apresentação](./2018_PPT_TCC_Bernardo_Gabriela.pdf))
+* **TCC** - Lorena & Renan ([📄 Documento](./2018_TCC_Lorena_Renan.pdf))
+* **TCC** - Rodrigo & Ana ([📄 Documento](./2018_TCC_Rodrigo_Ana.pdf) | [📊 Apresentação](./2018_PPT_TCC_Rodrigo_Ana.pdf))
 
 ---
 
