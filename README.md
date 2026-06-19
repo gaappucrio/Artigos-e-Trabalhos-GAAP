@@ -38,7 +38,7 @@ Abaixo está a listagem dos trabalhos atualmente catalogados no repositório, se
 ### 📅 2025
 * **DSC** - Francisco Strunck ([📄 Documento](./2025_DSC_FranciscoStrunck.pdf))
 * **DSC** - Freddy Rojas ([📄 Documento](./2025_DSC_FreddyRojas.pdf) | [📊 Apresentação](./2025_PPT_DSC_FreddyRojas.pdf))
-* **DSC** - João Gonçalves Neto ([📄 Documento](./2025_DSC_JoaoNeto.pdf))
+* **DSC** - João Gonçalves Neto ([📄 Documento](./2025_DSC_JoaoNeto.pdf) | [📊 Apresentação](./2025_PPT_DSC_JoaoNeto.pdf))
 * **MSC** - Guilherme Espinosa ([📄 Documento](./2025_MSC_GuilhermeEspinosa.pdf) | [📊 Apresentação](./2025_PPT_MSC_Guilherme.pdf))
 * **MSC** - Lorena Satler ([📄 Documento](./2025_MSC_LorenaSatler.pdf) | [📊 Apresentação](./2025_PPT_MSC_LorenaSatler.pdf))
 
